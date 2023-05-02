@@ -32,6 +32,16 @@
     height: 40px;
     padding: 5px;
     flex-grow: 1;
+    transition: 0.2s;
+    outline: none;
+}
+
+.active {
+    background: lightskyblue;
+    box-shadow: inset 0px 0px 5px rgba(0,0,0,.4);
+    border: none;
+    outline: none;
+    border-radius: 10px;
 }
 
 .space {

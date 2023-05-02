@@ -47,3 +47,8 @@
 .space {
     flex-grow: 10;
 }
+
+.shortcut {
+    text-align: center;
+    margin: 10px;
+}
